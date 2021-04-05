@@ -7,4 +7,4 @@ Willing to stay updated on latest trends and improve myself on daily basis. I am
 
 
 
-![](https://github-readme-stats.vercel.app/api?username=kstojcev&show_icons=true&theme=chartreuse-dark)
+![](https://github-readme-stats.vercel.app/api?username=kstojcev&show_icons=true&theme=vision-friendly-dark)
